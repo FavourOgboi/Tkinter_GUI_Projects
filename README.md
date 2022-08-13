@@ -16,7 +16,7 @@
 
 - &nbsp; <b><samp> DATA ENTRY FORM </samp></b>
 
-<img src = "https://github.com/FavourOgboi/Tkinter_GUI_Projects/blob/main/assets/database.png" width = "300px" length = "300px">
+<img src = "https://github.com/FavourOgboi/Tkinter_GUI_Projects/blob/main/assets/database.png" width = "400px" length = "400px">
 
 - &nbsp; <b><samp> CALCULATOR </samp></b>
 
